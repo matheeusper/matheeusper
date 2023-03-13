@@ -1,4 +1,4 @@
-<h1 align="left">Hi dear<img src="https://media.tenor.com/HbwlDdf2xS8AAAAM/tiringa.gif" width="30px">, I'm Matheus Pereira de Andrade </h1>
+<h1 align="left">Hi dear<img src="https://i.gifer.com/55YI.gif" width="30px">, I'm Matheus Pereira de Andrade </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomedeirosr&color=green" alt="Profile views" /> </p>
 
