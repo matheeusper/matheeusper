@@ -32,7 +32,7 @@
 </div>
   
 <br><br>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://1.bp.blogspot.com/-P2czKkFRxR4/XsWVqthXVXI/AAAAAAABJVY/sEYSKbsGUZcogNCAnoxzmGGTau8Q-OPkACK4BGAsYHg/MATEM%25C3%2581TICA2.gif">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.makeagif.com/media/4-30-2021/hrPhmc.gif">
 
 ## 👨‍💻  &nbsp;Social Links
   <div> 
