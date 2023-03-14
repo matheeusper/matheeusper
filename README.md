@@ -2,9 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomedeirosr&color=green" alt="Profile views" /> </p>
 
-- 🔭 Currently Work: Computer Vision and Machine Learning R&D Engineer at Kasco
-- 👨‍🎓 Studying : Electronic Engineering at UFU
-- 🌱 Learning: Artificial Inteligence , Computer Vision , Autonomous Vehicles , Robotics, Automation
+- 👨‍🎓 Studying: Electronic Engineering at UFU
+- 🌱 Learning: Robotics, Automation
 - 💬 Ask me about: **JavaScript , HTML , CSS , Python , Flutter , Dart , C , C++**
 <br><br>
 
@@ -36,6 +35,6 @@
 
 ## 👨‍💻  &nbsp;Social Links
   <div> 
-  <a href="https://instagram.com/jjjvmedeiros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao.medeiros.ufu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/matheeusper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusper@ufu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaomedeirosr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
