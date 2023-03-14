@@ -1,6 +1,6 @@
 <h1 align="left">Hi dear <img src="https://i.pinimg.com/originals/ab/fe/8c/abfe8c1262ff20e6e2e50833538d92ea.gif" width="30px">, I'm Matheus Pereira de Andrade </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheeusper&color=#001BFF" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheeusper&color=001BFF" alt="Profile views" /> </p>
 
 - 👨‍🎓 Studying: Electronic Engineering at UFU
 - 🌱 Learning: Robotics, Basic Coding
