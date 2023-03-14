@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheeusper&color=red" alt="Profile views" /> </p>
 
 - 👨‍🎓 Studying: Electronic Engineering at UFU
-- 🌱 Learning: Robotics, Automation
-- 💬 Ask me about: **JavaScript , HTML , CSS , Python , Flutter , Dart , C , C++**
+- 🌱 Learning: Robotics, Basic Coding
+- 💬 Ask me about: **Lua , Python , Java , HTML , CSS , C++**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
