@@ -31,7 +31,7 @@
 </div>
   
 <br><br>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/-f9Es2UGaGwAAAAd/moon-knight-marvel.gif">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/-f9Es2UGaGwAAAAd/moon-knight-marvel.gif" border="1px solid red">
 
 ## 👨‍💻  &nbsp;Social Links
   <div> 
