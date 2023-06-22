@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Studying: Electronic Engineering at UFU
 - 🌱 Learning: Robotics, Basic Coding
-- 💬 Ask me about: **Lua , Python , Java , HTML , CSS , C++**
+- 💬 Ask me about: **Lua, Python, Java, HTML, CSS, C++**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
