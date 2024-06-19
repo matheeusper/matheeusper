@@ -5,7 +5,7 @@
 </p>
 
 - 👨‍🎓 Studying: Electronic Engineering at UFU
-- 🌱 Learning: Robotics, Basic Coding
+- 🌱 Learning: Robotics, Basic Coding, Engineering
 - 📚 Learning about: **Python, C++, Computer Vision, Artificial Intelligence**
 
 ## ⚙️ GitHub Analytics
