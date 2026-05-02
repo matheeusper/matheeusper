@@ -1,69 +1,89 @@
-# Hi there, I'm Matheus Pereira de Andrade 👋
+<h1 align="center">Hi 👋, I'm Matheus Pereira de Andrade</h1>
+<h3 align="center">Electronic Engineering Student | Robotics • AI • Computer Vision</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=matheeusper&color=001BFF&style=flat-square" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheeusper&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 🎓 Sobre Mim
-Sou estudante de **Engenharia Eletrônica na UFU**, apaixonado por hardware e software. Atualmente, foco meus estudos na intersecção entre robótica e inteligência artificial.
+## 🚀 About Me
 
-*   🌱 **Atualmente aprendendo:** Robótica, Visão Computacional e IA.
-*   📚 **Stack Principal:** Python, C++, Engenharia de Software.
-*   🚀 **Objetivo:** Desenvolver soluções que conectem o mundo físico ao digital.
+- 🎓 Electronic Engineering student at **UFU**
+- 🤖 Focused on **Robotics, Embedded Systems and AI**
+- 🧠 Currently learning:
+  - Python & C++
+  - Computer Vision (YOLO, OpenCV)
+  - Artificial Intelligence
+- ⚡ Projects involving **automation, embedded systems and real-time processing**
 
 ---
 
-### ⚙️ GitHub Analytics
-Para corrigir o erro de carregamento, utilizei links atualizados com suporte a temas transparentes:
+## 🧠 Current Focus
+
+- 📡 Digital Communications & Signal Processing  
+- 🤖 Computer Vision for real-world applications  
+- ⚙️ Embedded systems (STM32, microcontrollers)  
+- 🏎️ DIY projects (FFB steering wheel, simulators)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/matheeusper">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheeusper&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusper&layout=compact&langs_count=7&theme=transparent&border_radius=10" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheeusper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusper&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
 ---
 
-### 🛠 Tech Stack
-Conhecimentos técnicos e ferramentas que utilizo no dia a dia acadêmico e em projetos pessoais:
+## 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-</p>
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
+### Interests
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+
+</div>
 
 ---
 
-### 👨‍💻 Vamos nos conectar?
+## 📌 Featured Projects
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheeusper/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+🔹 *Add your best projects here (TCC, YOLO, automação, etc)*  
+🔹 Example:
+- 🚗 **Vehicle Detection with YOLO**
+- ⚙️ **Embedded Control Systems**
+- 📡 **Digital Communication Simulations**
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
   <a href="https://instagram.com/matheeusper" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:matheusper@ufu.br">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheeusper/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
-<br />
+---
 
-![Thanks for visiting](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
+## 💡 Quote
+
+> "Engineering is not just about building things — it's about solving real problems."
+
+---
