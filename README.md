@@ -58,8 +58,6 @@
 
 ## 📌 Featured Projects
 
-🔹 *Add your best projects here (TCC, YOLO, automação, etc)*  
-🔹 Example:
 - 🚗 **Vehicle Detection with YOLO**
 - ⚙️ **Embedded Control Systems**
 - 📡 **Digital Communication Simulations**
