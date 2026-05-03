@@ -32,8 +32,12 @@
 
 <div align="center">
   <a href="https://github.com/matheeusper">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheeusper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusper&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheeusper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeusper&theme=tokyonight"/>
+  </a>
+  <br>
+  <a href="https://github.com/matheeusper">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusper&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
@@ -83,5 +87,3 @@
 ## 💡 Quote
 
 > "Engineering is not just about building things — it's about solving real problems."
-
----
