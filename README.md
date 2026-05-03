@@ -33,8 +33,6 @@
 
 <div align="center">
 
-<br><br>
-
 <img height="160em" src="https://streak-stats.demolab.com?user=matheeusper&theme=tokyonight&hide_border=true"/>
 
 </div>
